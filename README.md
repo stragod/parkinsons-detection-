@@ -1,3 +1,3 @@
 # parkinsons-detection-
-Detect parkinson's using Machine learning algorithms 
+Detect parkinson's disease using Machine learning algorithms 
 
