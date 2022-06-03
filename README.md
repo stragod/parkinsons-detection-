@@ -1,3 +1,3 @@
 # parkinsons-detection-
-Detect parkinson's using Machine learning 
-About the dataset:
+Detect parkinson's using Machine learning algorithms 
+
