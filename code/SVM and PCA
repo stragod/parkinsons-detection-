@@ -1,3 +1,11 @@
+--------------------------------
+--Parkinsons disease detection--
+--------------------------------
+
+--Author: Raghavendra Prasad
+--Date: 26/05/2022
+--Tool used: Python Jupyter notebook
+
 
 #import required libraries
 import pandas as pd 
